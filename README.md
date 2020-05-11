@@ -1,6 +1,6 @@
 #  How To Use
-<This code will run only Linux Machine>
-<This code written in Terarform 0.12 format>
+*This code will run only Linux Machine
+*This code written in Terarform 0.12 format
 1. Clone the master repo. 
 2. Go to Examples -> Default-run
 3. Open default_run.auto.tfvars file. 
